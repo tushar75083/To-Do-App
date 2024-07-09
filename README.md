@@ -1,6 +1,7 @@
 # To-Do-App
 Welcome to the To-Do App Project! This repository contains the code for a simple and efficient To-Do application built using HTML, CSS, and JavaScript.
 The To-Do App Project aims to provide a user-friendly interface for managing tasks. This project enhanced my front-end development skills, particularly in HTML, CSS, and JavaScript.
+<br>
 Features :
 1) Task Management: Add,delete tasks easily.
 2) Task Completion: Mark tasks as completed to keep track of your progress.
